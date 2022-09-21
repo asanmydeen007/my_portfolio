@@ -1,0 +1,104 @@
+{
+    "basic_info": {
+      "name": "Asan Mydeen",
+      "titles": [ "Product Engineer", "React Native Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+          "level": "70"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+          "level": "90"
+        },
+       
+       {
+        "name": "TailWindCSS",
+        "class": "devicon-tailwindcss-original-wordmark",
+        "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+        "level": "70"
+       },{
+        "name": "React",
+        "class": "devicon-react-original",
+        "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+        "level": "70"
+       },
+       {
+        "name": "React",
+        "class": "devicon-java-plain",
+        "link":" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+        "level": "70"
+       },
+       {
+        "name": "C",
+        "class": "devicon-c-plain",
+        "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg",
+        "level": "70"
+       },
+       {
+        "name": "FireBase",
+        "class": "devicon-firebase-plain",
+        "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+        "level": "70"
+       },
+       {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+        "level": "70"
+       }
+       ,
+       {
+        "name": "NextJs",
+        "class": "devicon-nextjs-plain",
+        "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
+        "level": "70"
+       }
+       ,
+       {
+        "name": "NodeJs",
+        "class": "devicon-nodejs-plain",
+        "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg",
+        "level": "70"
+       } ,
+       {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "link":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+        "level": "70"
+       }
+       
+      ]
+    }
+  }
