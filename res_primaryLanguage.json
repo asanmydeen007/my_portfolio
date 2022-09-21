@@ -18,7 +18,7 @@
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://www.vanheusenindia.com/?utm_source=google&utm_medium=cpc&utm_campaign=VH_Kin_Google_Search_Brand_Core_Core_PujoSale_Sept_2022&utm_content=Kin_Search_BrandCore_PujoSale_Sept_2022&gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKLhdNvwiDuYnooXUDFPyaFNNyninqsddwL2gvQNpjd5UrHnmZYxOIUaAnIcEALw_wcB",
         "technologies": [
           {
             "class": "devicon-react-original colored",
@@ -34,19 +34,19 @@
       {
         "title": "Louis Philippe",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Bringing together the design sophistication and functional elegance in every outfit, Van Heusen’s collection for men is crafted for the man who gets things done while looking effortlessly chic and classy.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://www.louisphilippe.com/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-react-original colored",
+            "name": "React Native"
           },
           {
-            "class": "devicon-javascript-plain",
+            "class": "devicon-javascript-plain colored",
             "name": "JavaScript"
           }
         ]
@@ -54,24 +54,20 @@
       {
         "title": "Peter England",
         "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "Bringing together the design sophistication and functional elegance in every outfit, Van Heusen’s collection for men is crafted for the man who gets things done while looking effortlessly chic and classy.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://www.peterengland.com/?utm_source=google&gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKKR9iat3idkznncH2S8sn5aWKwVmboicxtkBUN_51pVOYCveKi9tfgaAjAeEALw_wcB",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original colored",
+            "name": "React Native"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
           }
         ]
       }
